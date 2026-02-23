@@ -1,0 +1,14 @@
+{
+  "id": "root",
+  "element": "page",
+  "layout": [
+    {
+      "id": "6b204dbb-c3e2-4add-b388-e6cefea66e82",
+      "element": "Box",
+      "props": {
+        "className": "border border-dashed border-gray-400 p-4 m- w-30"
+      },
+      "children": []
+    }
+  ]
+}
