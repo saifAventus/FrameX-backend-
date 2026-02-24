@@ -3,12 +3,29 @@
   "element": "page",
   "layout": [
     {
-      "id": "6b204dbb-c3e2-4add-b388-e6cefea66e82",
+      "id": "3d4726b6-9cb9-4877-a67b-08381cd32d97",
       "element": "Box",
       "props": {
-        "className": "border border-dashed border-gray-400 p-4 m- w-30"
+        "className": "border border-dashed flex flex-row align-flex-row p-44 bg-[#ffffff] border-[#a30f0f]"
       },
-      "children": []
+      "children": [
+        {
+          "id": "95872677-865e-4321-bd8b-262045ccf740",
+          "element": "Box",
+          "props": {
+            "className": "p-4 border border-dashed border-gray-400"
+          },
+          "children": []
+        },
+        {
+          "id": "6c0dbecd-3462-4079-b1a7-9956af107452",
+          "element": "Box",
+          "props": {
+            "className": "border border-dashed p-4 w-40 bg-[#ffffff] border-[#f51919]"
+          },
+          "children": []
+        }
+      ]
     }
   ]
 }
